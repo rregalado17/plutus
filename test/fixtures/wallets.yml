@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  crypto_name: MyString
+  send: 1.5
+  receive: 1.5
+  convert: 1.5
+
+two:
+  crypto_name: MyString
+  send: 1.5
+  receive: 1.5
+  convert: 1.5

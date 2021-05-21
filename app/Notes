@@ -1,0 +1,28 @@
+Plutus
+
+Cryptocurrency exchange that allows personalized ETFs
+
+Models
+    - User
+    - Crypto
+    - Wallet 
+    - Adminstrator
+
+Controllers
+    - Same as above
+
+Views
+    - Homepage
+    - Login 
+    - Marketplace
+    - About 
+    - Users
+        - Wallet for each different Crypto
+        - Bank Account
+        - Buy, Sell, or Convert
+    - Adminstrator 
+        - CRUD Crypto Page
+        - Same as User
+        - Can Ban Users 
+    - Settings 
+    - NAV
